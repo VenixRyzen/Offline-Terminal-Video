@@ -1,4 +1,4 @@
-erminalMedia Pro v4.8
+TerminalMedia Pro v4.8
 Developed by Vexin/Lumiva
 
 TerminalMedia Pro is a high-performance, neon-styled command-line station designed for seamless media discovery and storage management. It offers a professional-grade environment to search, download, and play media up to 4K resolution without the bloat of traditional software.
