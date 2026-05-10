@@ -22,6 +22,11 @@ Integrated Library: Instant redirection to your downloaded files for immediate v
 Need Help?
 Contact via Discord: akira.soul_ (if you need anything)
 “High-speed media, zero bloat.” HOW TO SETUP!!! FIRST GO TO FILE EXPLORER. RIGHT-CLICK AND PICK NEW AND MAKE A NEW FOLDER! NAME IT ANYTHING YOU WANT! THEN GO TO NOTEPAD AND PASTE THIS! : 
+
+
+
+
+
 @echo off
 setlocal enabledelayedexpansion
 title TerminalMedia_Pro_v4.8
